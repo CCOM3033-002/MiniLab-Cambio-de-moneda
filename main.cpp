@@ -1,8 +1,8 @@
-#inclide <iostream>
+#include <iostream>
 using namespace std;
 
 int main(){
-  // write a statement that outputs "Hello World" 
+  // write your code here
   
   return 0;
 }
